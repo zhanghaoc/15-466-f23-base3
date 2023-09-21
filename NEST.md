@@ -15,7 +15,7 @@ Here is a quick overview of what is included. For further information, ☺read t
 	- [`Sound.hpp`](Sound.hpp), [`Sound.cpp`](Sound.cpp) `Sound` namespace, functions for `Sample` loading and playback in 2D and 3D.
 	- [`Mesh.hpp`](Mesh.hpp), [`Mesh.cpp`](Mesh.cpp) mesh loading.
 	- [`Scene.hpp`](Scene.hpp), [`Scene.cpp`](Scene.cpp) scene (transform hierarchy) loading and display (hmm, you might actually edit this code a bit).
-	- shaders (you might also build on these:
+	- shaders (you might also build on these):
 		- [`ColorProgram.hpp`](ColorProgram.hpp), [`ColorProgram.cpp`](ColorProgram.cpp) GLSL shader that draws objects with vertex colors.
 		- [`ColorTextureProgram.hpp`](ColorTextureProgram.hpp), [`ColorTextureProgram.cpp`](ColorTextureProgram.cpp) GLSL shader that draws objects with vertex colors and textures.
 		- [`LitColorTextureProgram.hpp`](LitColorTextureProgram.hpp), [`LitColorTextureProgram.cpp`](LitColorTextureProgram.cpp) GLSL shader that draws objects with vertex colors, textures, and lighting.
