@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+# Make World Silent
 
-Author: (TODO: your name)
+Author: Haoxi Zhang
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: You should listen to the sound, figure out what is annoying and turn down the sound.
 
 Screen Shot:
 
@@ -10,6 +10,6 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+WASD to move, Space to select.
 
 This game was built with [NEST](NEST.md).
